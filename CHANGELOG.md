@@ -3,6 +3,7 @@
 ## HEAD (Unreleased)
 
 - feat: Always show login information
+- fix: no output when applying
 
 ---
 
